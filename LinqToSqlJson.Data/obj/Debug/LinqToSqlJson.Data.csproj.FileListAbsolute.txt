@@ -1,0 +1,6 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication36\LinqToSqlJson.Data\bin\Debug\LinqToSqlJson.Data.dll.config
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication36\LinqToSqlJson.Data\bin\Debug\LinqToSqlJson.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication36\LinqToSqlJson.Data\bin\Debug\LinqToSqlJson.Data.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication36\LinqToSqlJson.Data\obj\Debug\LinqToSqlJson.Data.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication36\LinqToSqlJson.Data\obj\Debug\LinqToSqlJson.Data.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\MvcApplication36\LinqToSqlJson.Data\obj\Debug\LinqToSqlJson.Data.pdb
